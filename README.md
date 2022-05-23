@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/RodrgioSaymon">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSaymon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSaymon&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSaymon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSaymon&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=RodrigoSaymon&label=Profile%20views&color=0e75b6&style=flat" alt="RodrigoSaymon"/> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigotbass@gmail.com)](mailto:rodrigotbass@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RodrigoSaymon/)](https://www.linkedin.com/in/RodrigoSaymon/)
