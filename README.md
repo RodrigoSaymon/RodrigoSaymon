@@ -4,7 +4,7 @@
 
 [LogoPerfil]: https://github.com/RodrigoSaymon/RodrigoSaymon/blob/main/src/assets/logo%205.png?raw=true
 
-[LogoTransição]: https://github.com/RodrigoSaymon/RodrigoSaymon/blob/main/src/assets/logo%20transi%C3%A7%C3%A3o.png?raw=true
+[LogoTransição]: https://github.com/RodrigoSaymon/RodrigoSaymon/blob/main/src/assets/transi%C3%A7%C3%A3o%202.png?raw=true
 
 ![][LogoPerfil]
 
@@ -27,7 +27,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSaymon&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
+
 
 ![][LogoTransição]
 
