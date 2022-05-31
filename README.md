@@ -4,6 +4,8 @@
 
 [LogoPerfil]: https://github.com/RodrigoSaymon/RodrigoSaymon/blob/main/src/assets/logo%205.png?raw=true
 
+[LogoTransição]:
+
 ![][LogoPerfil]
 
 <img src="https://komarev.com/ghpvc/?username=RodrigoSaymon&label=Profile%20views&color=0e75b6&style=flat" alt="RodrigoSaymon"/> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigotbass@gmail.com)](mailto:rodrigotbass@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RodrigoSaymon/)](https://www.linkedin.com/in/rodrigotbass/)
