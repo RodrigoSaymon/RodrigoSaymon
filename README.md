@@ -40,9 +40,9 @@
 ---------- | :--------
 [Dart Fundamentos](https://github.com/RodrigoSaymon/Dart-Fundamentos) | Conceitos importantes, váriaveis, modificadores, Operadores condicionais, Operadores Lógicos, Null safety e outros.
 
-</div>
 
-<details>
+</details>
+
   <summary>📂 <i>Outros Projetos</i></summary>
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
