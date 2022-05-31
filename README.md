@@ -43,6 +43,8 @@
 
 </details>
 
+<details>
+
   <summary>📂 <i>Outros Projetos</i></summary>
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
