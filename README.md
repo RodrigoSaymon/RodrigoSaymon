@@ -31,7 +31,7 @@
 
 ![][LogoTransição]
 
-<center><h1>
+<h3 align="/center">
   
   <details>
   <summary>📂 <i>Projetos em Dart</i></summary>
