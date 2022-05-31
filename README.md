@@ -2,7 +2,7 @@
 <h1 align="center"><p align="left"> <a  href="https://dart.dev" target="_blank" rel="noreferrer"> <img width="23" height = "23" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="23"/> </a>  Olá, eu sou Rodrigo Saymon! <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img width="23", height = "23"src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="23" height="23"/> </a></h1>
 <h3 align="/center"> -->
 
-[LogoPerfil]: https://github.com/RodrigoSaymon/RodrigoSaymon/blob/main/src/assets/Perfil%20logo.png?raw=true
+[LogoPerfil]: https://github.com/RodrigoSaymon/RodrigoSaymon/blob/main/src/assets/logo%20perfil%202.png?raw=true
 
 ![][LogoPerfil]
 
