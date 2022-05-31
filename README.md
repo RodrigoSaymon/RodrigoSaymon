@@ -4,7 +4,7 @@
 
 [LogoPerfil]: https://github.com/RodrigoSaymon/RodrigoSaymon/blob/main/src/assets/logo%205.png?raw=true
 
-[LogoTransição]: https://github.com/RodrigoSaymon/RodrigoSaymon/blob/main/src/assets/transi%C3%A7%C3%A3o%202.png?raw=true
+[LogoTransição]: https://github.com/RodrigoSaymon/RodrigoSaymon/blob/main/src/assets/transi%C3%A7%C3%A3o%203%20.png?raw=true
 
 ![][LogoPerfil]
 
